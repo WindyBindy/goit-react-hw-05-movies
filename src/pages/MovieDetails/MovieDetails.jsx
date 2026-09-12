@@ -1,5 +1,5 @@
 function MovieDetails() {
-  return <div>MovieDetails</div>;
+  return <h1>MovieDetails</h1>;
 }
 
 

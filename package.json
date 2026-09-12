@@ -13,10 +13,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.20.0",
     "gh-pages": "^6.3.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-router-dom": "^7.18.3"
+    "react-router-dom": "^7.18.3",
+    "styled-components": "^6.5.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
