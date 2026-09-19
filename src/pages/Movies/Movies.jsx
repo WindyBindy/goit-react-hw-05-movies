@@ -1,6 +1,7 @@
-function Movies() {
-  return <h1>Movies</h1>;
+function Movies () {
+    return (
+        <h1>Movies page</h1>
+    )
 }
 
-
-export default Movies;
+export default Movies
