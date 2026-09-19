@@ -11,7 +11,7 @@ function Home() {
         }
         fetchMovies()
     }, [])
-    // console.log(movie);
+    // ssd
     return (
         <>
             <h1>Trending today</h1>
