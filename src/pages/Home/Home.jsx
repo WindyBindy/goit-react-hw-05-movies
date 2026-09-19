@@ -11,7 +11,7 @@ function Home() {
         }
         fetchMovies()
     }, [])
-    // ssd
+    // ssdd
     return (
         <>
             <h1>Trending today</h1>
